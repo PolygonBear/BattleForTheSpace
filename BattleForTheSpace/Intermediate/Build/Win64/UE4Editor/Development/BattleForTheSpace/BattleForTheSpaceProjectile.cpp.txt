@@ -1,0 +1,11 @@
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Intermediate\Build\Win64\UE4Editor\Development\BattleForTheSpace\Definitions.BattleForTheSpace.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Source\BattleForTheSpace\BattleForTheSpaceProjectile.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Intermediate\Build\Win64\UE4Editor\Inc\BattleForTheSpace\BattleForTheSpaceProjectile.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h

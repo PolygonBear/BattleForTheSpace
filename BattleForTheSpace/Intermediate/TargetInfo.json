@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BattleForTheSpace",
+			"Path": "D:\\Private\\MyProjects\\PrivateProjects\\MyDepot\\UE4\\BattleFoTheSpace\\BattleForTheSpace\\Source\\BattleForTheSpace.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BattleForTheSpaceEditor",
+			"Path": "D:\\Private\\MyProjects\\PrivateProjects\\MyDepot\\UE4\\BattleFoTheSpace\\BattleForTheSpace\\Source\\BattleForTheSpaceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

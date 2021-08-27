@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BattleForTheSpace.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7140DCFA-2BA7-472F-8490-255ED015709B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BattleForTheSpace.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BattleForTheSpaceEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1843BD2E-9971-4EF4-824A-6311BAD749E8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BattleForTheSpace">
+      <UniqueIdentifier>{7FE6E747-1B16-4B43-B96A-A7E5B4FEE6F7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BattleForTheSpace\BattleForTheSpace.Build.cs">
+      <Filter>Source\BattleForTheSpace</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BattleForTheSpace\BattleForTheSpace.cpp">
+      <Filter>Source\BattleForTheSpace</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleForTheSpace\BattleForTheSpace.h">
+      <Filter>Source\BattleForTheSpace</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BattleForTheSpace\BattleForTheSpaceCharacter.cpp">
+      <Filter>Source\BattleForTheSpace</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleForTheSpace\BattleForTheSpaceCharacter.h">
+      <Filter>Source\BattleForTheSpace</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BattleForTheSpace\BattleForTheSpaceGameMode.cpp">
+      <Filter>Source\BattleForTheSpace</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleForTheSpace\BattleForTheSpaceGameMode.h">
+      <Filter>Source\BattleForTheSpace</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BattleForTheSpace\BattleForTheSpaceHUD.cpp">
+      <Filter>Source\BattleForTheSpace</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleForTheSpace\BattleForTheSpaceHUD.h">
+      <Filter>Source\BattleForTheSpace</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BattleForTheSpace\BattleForTheSpaceProjectile.cpp">
+      <Filter>Source\BattleForTheSpace</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BattleForTheSpace\BattleForTheSpaceProjectile.h">
+      <Filter>Source\BattleForTheSpace</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

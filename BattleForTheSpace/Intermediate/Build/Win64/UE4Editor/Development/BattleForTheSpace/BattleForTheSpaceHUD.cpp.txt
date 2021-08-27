@@ -1,0 +1,17 @@
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Intermediate\Build\Win64\UE4Editor\Development\BattleForTheSpace\Definitions.BattleForTheSpace.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Source\BattleForTheSpace\BattleForTheSpaceHUD.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Intermediate\Build\Win64\UE4Editor\Inc\BattleForTheSpace\BattleForTheSpaceHUD.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h

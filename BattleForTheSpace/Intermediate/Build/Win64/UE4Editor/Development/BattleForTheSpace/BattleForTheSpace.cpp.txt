@@ -1,0 +1,2 @@
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Intermediate\Build\Win64\UE4Editor\Development\BattleForTheSpace\Definitions.BattleForTheSpace.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Source\BattleForTheSpace\BattleForTheSpace.h

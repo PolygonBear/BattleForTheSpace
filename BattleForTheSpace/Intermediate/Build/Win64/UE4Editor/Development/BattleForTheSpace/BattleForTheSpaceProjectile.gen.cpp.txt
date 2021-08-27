@@ -1,0 +1,5 @@
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Intermediate\Build\Win64\UE4Editor\Development\BattleForTheSpace\Definitions.BattleForTheSpace.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Source\BattleForTheSpace/BattleForTheSpaceProjectile.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Intermediate\Build\Win64\UE4Editor\Inc\BattleForTheSpace\BattleForTheSpaceProjectile.generated.h

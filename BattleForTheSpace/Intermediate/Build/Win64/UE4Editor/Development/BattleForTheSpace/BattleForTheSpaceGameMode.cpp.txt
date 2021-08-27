@@ -1,0 +1,22 @@
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Intermediate\Build\Win64\UE4Editor\Development\BattleForTheSpace\Definitions.BattleForTheSpace.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Source\BattleForTheSpace\BattleForTheSpaceGameMode.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Intermediate\Build\Win64\UE4Editor\Inc\BattleForTheSpace\BattleForTheSpaceGameMode.generated.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Source\BattleForTheSpace\BattleForTheSpaceHUD.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Intermediate\Build\Win64\UE4Editor\Inc\BattleForTheSpace\BattleForTheSpaceHUD.generated.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Source\BattleForTheSpace\BattleForTheSpaceCharacter.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Private\Unreal Engine 4\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Private\MyProjects\PrivateProjects\MyDepot\UE4\BattleFoTheSpace\BattleForTheSpace\Intermediate\Build\Win64\UE4Editor\Inc\BattleForTheSpace\BattleForTheSpaceCharacter.generated.h
